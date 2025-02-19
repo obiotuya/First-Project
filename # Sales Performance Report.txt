@@ -1,0 +1,99 @@
+# **Sales Performance Report**
+
+## **Overview**
+The sales dashboard provides insights into key performance metrics, revenue trends, product performance, and customer behavior. Below are the key highlights:
+
+- **Total Revenue:** ₦3,520,984.00  
+- **Total Orders:** 1,000  
+- **Average Order Value:** ₦3,520.98  
+- **Average Delivery Time:** 5.53 days  
+
+---
+
+## **Key Performance Drivers**
+### **1. Product Performance**
+- **Top 5 Products by Revenue:**  
+  - **Magnum Set**
+  - **Quia Gift**
+  - **Dolores Gift**
+  - **Harum Pack**
+  - **Deserunt Box**  
+
+**Action Plan:**  
+- Focus marketing campaigns on high-performing products.  
+- Offer bundle discounts on top-selling items to drive up order value.  
+- Investigate potential upsell or cross-sell opportunities with lower-performing products.
+
+### **2. City-Wise Order Performance**
+- **Top 10 Cities by Order Count:**  
+  - **Imphal, Dhanbad, Kaval, Haridwar, Bidan...** (partial names visible)
+
+**Action Plan:**  
+- Invest in targeted marketing and logistics improvements in high-order cities.  
+- Expand outreach to underperforming cities by offering localized promotions or better shipping options.  
+
+### **3. Revenue Trends**
+- **Revenue by Month:**  
+  - Peaks in **March, July, and October**  
+  - Dips observed in **April, May, and June**  
+
+**Action Plan:**  
+- Identify causes of high-revenue months (seasonal demand, promotions, etc.) and replicate strategies.  
+- Introduce special discounts or marketing campaigns during low-revenue months to boost sales.
+
+- **Revenue by Order Hour:**  
+  - Peak order times occur throughout the day, with slight fluctuations.  
+
+**Action Plan:**  
+- Optimize digital ad campaigns and social media engagement based on peak order hours.  
+- Ensure customer support and website uptime during peak order hours.
+
+### **4. Category-Wise Revenue**
+- **Best-Performing Categories:**  
+  - **Colors, Sweets, and Soft Toys**  
+
+**Action Plan:**  
+- Increase inventory and promotional efforts for high-selling categories.  
+- Evaluate and improve offerings for underperforming categories like **Mugs and Plants**.
+
+### **5. Revenue by Occasion**
+- **Top Occasions Driving Revenue:**  
+  - **Anniversary, Holi, Birthday, Raksha Bandhan**  
+
+**Action Plan:**  
+- Run targeted promotions around key occasions, leveraging email and social media campaigns.  
+- Create gift bundles for special occasions to increase average order value.
+
+---
+
+## **Recommendations to Improve Revenue**
+1. **Product Optimization:**  
+   - Strengthen inventory for top products.  
+   - Offer bundled discounts to increase purchase value.  
+   - Improve visibility of underperforming products.  
+
+2. **Geographic Expansion:**  
+   - Increase presence in low-performing cities through localized ads.  
+   - Optimize delivery logistics in high-order cities to improve customer experience.  
+
+3. **Seasonal Promotions:**  
+   - Leverage high-revenue months with aggressive marketing.  
+   - Introduce flash sales during low-revenue months to drive demand.  
+
+4. **Time-Based Marketing Strategy:**  
+   - Run ad campaigns during peak order hours.  
+   - Improve website performance and checkout experience during high-traffic times.  
+
+5. **Category Expansion & Personalization:**  
+   - Promote high-revenue categories with exclusive deals.  
+   - Introduce personalized recommendations for repeat customers.  
+
+6. **Occasion-Based Bundles:**  
+   - Offer customized gift packs for top occasions like Anniversaries and Birthdays.  
+   - Use email marketing and targeted promotions to drive occasion-specific sales.  
+
+---
+
+## **Conclusion**
+By focusing on high-performing products, optimizing sales strategies by time and location, and leveraging seasonal demand, significant revenue improvements can be achieved. A data-driven approach will help in maximizing profitability while enhancing customer satisfaction.
+
